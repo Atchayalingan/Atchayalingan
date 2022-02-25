@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atchayalingan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, R
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me atchayalingan@gmail.com
 
 <!---
